@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\FFMPEG.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\FFMPEG.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\bin\Debug\Video converter.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\bin\Debug\Video converter.exe
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\bin\Debug\Video converter.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\Video_convert.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\Video converter.exe
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\Video converter.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FFMPEG\FFMPEG\obj\Debug\MP4_to_MP3.Form1.resources
